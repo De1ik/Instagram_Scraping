@@ -1,0 +1,4 @@
+.venv
+.env
+credentials.json
+instagram_session.json
